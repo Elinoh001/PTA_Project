@@ -1,0 +1,39 @@
+# PYTHON / DJANGO
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pkl
+env/
+venv/
+*.env
+.env
+db.sqlite3
+media/
+staticfiles/
+static/
+logs/
+
+# NODE / REACT / FRONT-END
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+dist/
+build/
+.cache/
+.next/
+out/
+
+# TAILWINDCSS & autres build
+.postcss-cache/
+*.tmp
+
+# SYSTÈME / ÉDITEURS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
